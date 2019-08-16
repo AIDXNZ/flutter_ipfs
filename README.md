@@ -7,3 +7,4 @@ Add IPFS to your flutter project!
 
 This package is in very early develpoment 
 
+Running node only consumes 28mb of ram and the webview maintains 60fps consistantly
