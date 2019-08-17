@@ -15,7 +15,7 @@ class _IPFSNodeState extends State<IPFSNode> {
   @override
   Widget build(BuildContext context) {
     return WebviewScaffold(
-      url: 'https://gateway.ipfs.io/ipfs/QmTDnkSMPWbPXSYKJM4p14jwQDA9Ueor8vTeh2D4g9c187',
+      url: 'https://aidxnz.github.io/ipfs-gateway-dev.io/',
       appCacheEnabled: true,
       hidden: true,
 
